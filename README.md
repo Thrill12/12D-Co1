@@ -7,9 +7,9 @@ You can add files here with any extension, and if you go to vscode.dev, then ope
 https://vscode.dev/
 
 # Important
-    1. Make sure that, if changing someone's files, you keep the old text/code, either by moving the text at the bottom and making it clear it has been edited(also include your name when you edit someone's script/file) or you comment out old code and replace with new code(again, putting in your name when you change something.
-    2. Make sure when adding new files, there isn't already a file doing the same thing.
-    3. Keep organized please - I don't want to do daily cleanup here :(
+- Make sure that, if changing someone's files, you keep the old text/code, either by moving the text at the bottom and making it clear it has been edited(also include your name when you edit someone's script/file) or you comment out old code and replace with new code(again, putting in your name when you change something.
+- Make sure when adding new files, there isn't already a file doing the same thing.
+- Keep organized please - I don't want to do daily cleanup here :(
 
 
 ## Tutorial on uploading changes:
@@ -24,12 +24,12 @@ https://vscode.dev/
     
 ## Notes:
 
-**PLEASE** make sure that your code either works before you upload it, or you mark it with [BROKEN] at the start of your file name, before the language indicator at the start, and someone may try to fix it if they stumble upon it.
+- **PLEASE** make sure that your code either works before you upload it, or you mark it with [BROKEN] at the start of your file name, before the language indicator at the start, and someone may try to fix it if they stumble upon it.
 
-**STICK TO THE NAMING CONVENTION** - that is, for folders, you will name them "Chapter [chapterNumber] - [topicName]", and for files start your file name with 3.either Python, C#, or VB, then what you want to name it, and after the name put .py for Python, .cs for C# and .vb for VB.
+- **STICK TO THE NAMING CONVENTION** - that is, for folders, you will name them "Chapter [chapterNumber] - [topicName]", and for files start your file name with 3.either Python, C#, or VB, then what you want to name it, and after the name put .py for Python, .cs for C# and .vb for VB.
 
-PLEASE ADD COMMENTS WHEN YOU CHANGE SOMEONE'S CODE - even if you go over it in person, you have to add comments when changing another person's code, as anyone might read that and need to understand.
+- PLEASE ADD COMMENTS WHEN YOU CHANGE SOMEONE'S CODE - even if you go over it in person, you have to add comments when changing another person's code, as anyone might read that and need to understand.
 
-PLEASE ADD **COMMENTS** TO YOUR CODE.
+- PLEASE ADD **COMMENTS** TO YOUR CODE.
 
 ## Any questions ask Andrei.
