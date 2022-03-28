@@ -14,6 +14,8 @@ https://vscode.dev/
 
 ## Tutorial on uploading changes:
 
+- Open https://vscode.dev/, and click **Open Remote Repository**. Popup will show up asking you to sign in with GitHub, then if you have been added to the repo, you should have access. If not, ask Andrei to invite you.
+
 - Change your thing. This can be adding new files, changing a little bit of text, etc.
 
 - If in class, shout out if you are going to change anything as if someone else is on the same file, there might be some trickiness trying to fix the merge issues. If any big explosions happen due to this, call either Andrei, Jared, Miss, or Charlie.
@@ -24,7 +26,7 @@ https://vscode.dev/
     
 ## Notes:
 
-- **PLEASE** make sure that your code either works before you upload it, or you mark it with [BROKEN] at the start of your file name, before the language indicator at the start, and someone may try to fix it if they stumble upon it.
+- **PLEASE** make sure that your code either works before you upload it by testing it in **Visual Studio**, or you mark it with [BROKEN] at the start of your file name, before the language indicator at the start, and someone may try to fix it if they stumble upon it.
 
 - **STICK TO THE NAMING CONVENTION** - that is, for folders, you will name them "Chapter [chapterNumber] - [topicName]", and for files start your file name with 3.either Python, C#, or VB, then what you want to name it, and after the name put .py for Python, .cs for C# and .vb for VB.
 
