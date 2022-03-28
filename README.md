@@ -7,9 +7,9 @@ You can add files here with any extension, and if you go to vscode.dev, then ope
 https://vscode.dev/
 
 # Important
-Make sure that, if changing someone's files, you keep the old text/code, either by moving the text at the bottom and making it clear it has been edited(also include your name when you edit someone's script/file) or you comment out old code and replace with new code(again, putting in your name when you change something.
-Make sure when adding new files, there isn't already a file doing the same thing.
-Keep organized please - I don't want to do daily cleanup here :(
+    1. Make sure that, if changing someone's files, you keep the old text/code, either by moving the text at the bottom and making it clear it has been edited(also include your name when you edit someone's script/file) or you comment out old code and replace with new code(again, putting in your name when you change something.
+    2. Make sure when adding new files, there isn't already a file doing the same thing.
+    3. Keep organized please - I don't want to do daily cleanup here :(
 
 
 ## Tutorial on uploading changes:
