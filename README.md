@@ -11,6 +11,16 @@ https://vscode.dev/
 - Make sure when adding new files, there isn't already a file doing the same thing.
 - Keep organized please - I don't want to do daily cleanup here :(
 
+# Opening repository in VSCode online:
+
+- Go on https://vscode.dev/
+
+- On the left of the screen, click remote repository, and in the box where it asks for URL, place "https://github.com/Thrill12/12D-Co1".
+
+- Click on the first button option
+
+- Sign in with github
+
 
 ## Tutorial on uploading changes:
 
@@ -23,6 +33,7 @@ https://vscode.dev/
 - Go on the source control tab on the left (The one that kind of looks like a graph), then in the top left you will see a message box - here, describe what changes you have made. Doesn't have to be in detail, can be just "I added this topic and code for this topic". 
 
 - Click the checkbox above the message box and pray for no explosions. If any explosions occurr, again call Andrei, Jared, Miss, or Charlie.
+
     
 ## Notes:
 
