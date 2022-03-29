@@ -27,8 +27,8 @@ After the inner loop, subtract 1 from N for upper limit, by subtracting count1 f
 
 **Explain why this statement is wrong.**
 
------
+Each sorting algorithm will have a worst case formula with which we can estimate a worst time, so it is tractable even when there is a lot of data.
 
 **1.3 Explain what approach(es) a programmer might take if asked to "solve" an intractable problem.**
 
------
+Use of heuristic - the algorithm will make a guess using previous knowledge, that provides a close-to-optimal solution, or relax some ofthe constraints on the solution - solve a simpler version of the problem. We could also reduce the size of the search space, essentially looking through a smaller range of potential answers.
