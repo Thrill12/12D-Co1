@@ -20,7 +20,10 @@ https://vscode.dev/
 - Click on the first button option
 
 - Sign in with github
+    
+# Adding your own code:
 
+- To add your own code or files, simply add in the files using github or VSCode.dev into your personal folder in the "OUR Code" folder.
 
 ## Tutorial on uploading changes:
 
@@ -33,10 +36,6 @@ https://vscode.dev/
 - Go on the source control tab on the left (The one that kind of looks like a graph), then in the top left you will see a message box - here, describe what changes you have made. Doesn't have to be in detail, can be just "I added this topic and code for this topic". 
 
 - Click the checkbox above the message box and pray for no explosions. If any explosions occurr, again call Andrei, Jared, Miss, or Charlie.
-    
-# Adding your own code:
-
-- To add your own code or files, simply add in the files using github or VSCode.dev into your personal folder in the "OUR Code" folder.
 
 ## Notes:
 
