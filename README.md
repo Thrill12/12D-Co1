@@ -21,11 +21,11 @@ https://vscode.dev/
 
 - Sign in with github
     
-# Adding your own code:
+# Adding your own code/files:
 
-- To add your own code or files, simply add in the files using github or VSCode.dev into your personal folder in the "OUR Code" folder.
+- To add your own code or files, simply add in the files using github or VSCode.dev into your personal folder in the "OUR Code" folder, or in a specific topic's folder and subfolders.
 
-## Tutorial on uploading changes:
+# Changing existing code/files:
 
 - Open https://vscode.dev/, and click **Open Remote Repository**. Popup will show up asking you to sign in with GitHub, then if you have been added to the repo, you should have access. If not, ask Andrei to invite you.
 
