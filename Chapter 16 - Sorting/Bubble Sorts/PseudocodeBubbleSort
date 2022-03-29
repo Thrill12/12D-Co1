@@ -1,0 +1,21 @@
+counter = 0
+swapped = True
+swaps = 0
+length = list.length
+while swapped == True
+    while counter < length - 1
+        if list[counter] > list[counter + 1] Then
+            temp = list[counter]
+            list[counter] = list[counter + 1]
+            list[counter + 1] = temp
+            swaps = swaps + 1
+        ENDIF
+        counter = counter + 1
+    endwhile
+    if swaps == 0 Then
+        swapped = false
+    ELSE
+        swaps = 0
+        counter = 0
+    ENDIF
+endwhile
