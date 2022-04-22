@@ -2,6 +2,10 @@ pg 347, Craig n dave TCP IP stack and Mac Addresses
 
 # Layers
 
+## General info
+
+The highest level is closer to the user in that the processes are usually handled using either the operating system or application software. The lower layers are handled using a combination of hardware and software includiong the physical referred to as a stack because of the way in which teh request from the client machine passes down up through the layers of the server side. This means that the last action that takes place in the link layer on the client computer becomes the first action in the link layer in the server. This is an example of the last in first out (LiFo) structure that characterises a stack.
+
 ## Layer 4 - Application Layer
 
 The application layer handles the Domain Name System and a series of other procotols.
@@ -50,6 +54,4 @@ it is responsible for adding:
 1. The unique MAC address of the source device.
 2. The unique MAC address of the destination device.
 
-## General info
-
-The highest level is closer to the user in that the processes are usually handled using either the operating system or application software. The lower layers are handled using a combination of hardware and software includiong the physical referred to as a stack because of the way in which teh request from the client machine passes down up through the layers of the server side. This means that the last action that takes place in the link layer on the client computer becomes the first action in the link layer in the server. This is an example of the last in first out (LiFo) structure that characterises a stack.
+The MAC address is changed at each hop on the route.
