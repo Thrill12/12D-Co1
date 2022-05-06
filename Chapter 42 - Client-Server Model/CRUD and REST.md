@@ -16,8 +16,8 @@ CREATE, RETRIEVE, UPDATE, DELETE: The four fundamental opeartions for any databa
 **WEB-SERVER**
 4. Browser interprets JSON/XML response
 
-**Crud      HTTP        SQL Database**
-Create,     POST,       INSERT
-Retrieve,   GET,        SELECT
-Update,     PUT,        UPDATE
-Delete,     DELETE,     DELETE
+ **Crud        HTTP        SQL Database**
+1. Create,     POST,       INSERT
+2. Retrieve,   GET,        SELECT
+3. Update,     PUT,        UPDATE
+4. Delete,     DELETE,     DELETE
