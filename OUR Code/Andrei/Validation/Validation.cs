@@ -1,4 +1,19 @@
-private static void AskForFileCreation()
+using System;
+using System.IO;
+
+namespace _25_May_Programming_Exam_Revision
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //Replacestring();
+            //EnterSOr1To9();
+            //AskForProductID();
+            //AskForFileCreation();
+        }
+
+        private static void AskForFileCreation()
         {
             Console.WriteLine("Enter string to save to file");
             string strToSave = Console.ReadLine();
@@ -90,3 +105,5 @@ private static void AskForFileCreation()
 
             return returnedString;
         }
+    }
+}
