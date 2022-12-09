@@ -63,7 +63,7 @@ In computing, **ordinal** numbers are used to identify the position of data with
 A one-dimensional **array** called *Register* shows a list of names in a register:
 Allen   Brown   Christie    Davali  Ennis
 Ordinal numbers are used to assign the data as follows:
-'''
+```
 Register(1) = "Allen"
 Register(2) = "Brown"
-'''
+```
