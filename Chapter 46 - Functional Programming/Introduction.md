@@ -14,7 +14,10 @@ Codomain - the set of values from which the outputs of a function must be drawn
 4. What is a first-class object? Give two examples
 4. A first class object is any object that can be used as an argument or result of a function call. Some examples are 2,1,3,4 in the set [1,2,3,4,5]
 5. Show the full and partial application of the equation
-- f(a,b,c) = a + b - c
+5. - f(a,b,c) = a + b - c
 - f(1,2,3) = 1 + 2 - 3 -> 0
 - f(1,2,3): f1(2,3) -> f2(3) -> 0
 6. Use function composition to combine the equation f(x) = x^3 with g(x) = x 3
+6. g(f(x)): x^3 3
+f: A -> B
+g; B -> C
