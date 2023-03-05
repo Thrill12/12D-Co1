@@ -34,3 +34,5 @@ Latency is the time delay that occurs when a computer system is responding to an
 @TotaledToast tf u can at people in vscode lmao
 
 Three general causes of latency:
+- Propagation latency, which is the amount of time it takes for a logic gate within a circuit to transmit the data.
+- Transmission latency: the amount of time it takes to pass through a particular communication medium, for example, fibre optic would have a lower latency than copper cable.
