@@ -30,9 +30,8 @@ PRIMARY KEY (MagazineID))
 
 Write an SQL query that will find the data needed to produce the letters.
 
-SELECT CustomerName, Address, Postcode FROM Customer WHERE (
-    CustomerID = SELECT CustomerID FROM Subscription WHERE EndDate <= 01/06/2010
-)
+SELECT CustomerName, Address, Postcode FROM Customer, Magazine, Subscription WHERE (
+    MagazineName = "AQA Computing Now" AND EndDate < #1/6/2010# AND Magazine.MagazineID = Subscription.MagazineID AND Customer.CustomerID = Subscription.CustomerID)
 
 (5 marks)
 
